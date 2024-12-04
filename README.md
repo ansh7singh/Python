@@ -1,11 +1,11 @@
-# Python Script Name
+# Basic Python coding for machine learning
 
 A brief description of your Python script, explaining what it does and why it's useful.
 
 ## Features
-- **Feature 1**: Describe the first key functionality of your script.
-- **Feature 2**: Highlight another feature or capability.
-- **Feature 3**: Add any other unique or noteworthy features.
+- **Feature 1**: basic control , loops questions
+- **Feature 2**: lists , dictionay and sets questions
+-: .
 
 ## Prerequisites
 
@@ -17,6 +17,5 @@ Make sure you have the following installed:
 
 Follow these steps to set up the project:
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+python basic_python_for_machine_learning.py
+
